@@ -91,4 +91,4 @@ The project uses **Recursive Forecasting**:
 
 ---
 
-APP:[]
+Live App:[https://salesforecasting-8ybrfwg4b7inofskgxhqgi.streamlit.app/]

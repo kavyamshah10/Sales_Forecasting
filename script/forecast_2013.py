@@ -53,7 +53,7 @@ def forecast_2013(model, data, weeks=52):
 
         predictions.append(new_df)
 
-        # VERY IMPORTANT → update data
+        
         data = pd.concat([data, new_df], ignore_index=True)
 
     return pd.concat(predictions, ignore_index=True)
