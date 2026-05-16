@@ -1,6 +1,14 @@
-data/processed/test.csv
-data/processed/train.csv
+# Ignore raw and processed data
 data/raw/test_data.csv
-data/raw/train_datat.csv
-notebook/.ipynb_checkpoints
-script/__pycache__
+data/raw/train_data.csv
+data/processed/train.csv
+data/processed/test.csv
+
+
+# Jupyter checkpoints
+*.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
