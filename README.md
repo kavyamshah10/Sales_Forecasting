@@ -1,6 +1,7 @@
-📊 Sales Forecasting & Retail Analysis System
-🔥 Project Overview
-This project is an end‑to‑end Sales Forecasting and Retail Analysis System built using Machine Learning, Exploratory Data Analysis (EDA), and Streamlit.
+# 📊 Sales Forecasting System
+
+## 🔥 Project Overview
+This project is an end-to-end *Sales Forecasting System* built using Machine Learning and Streamlit.
 
 It combines:
 
